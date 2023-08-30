@@ -19,7 +19,7 @@ ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/mast
 ruleset=🎯 全球直连,[]GEOIP,CN
 ruleset=🐟 漏网之鱼,[]FINAL
 
-custom_proxy_group=🚀 节点选择`select`🚀 手动切换`[]♻️ 自动选择`[]📺 省流节点`[]👍 高级节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日韩节点`[]🇺🇲 美国节点`[]DIRECT
+custom_proxy_group=🚀 节点选择`select`[]🚀 手动切换`[]♻️ 自动选择`[]📺 省流节点`[]👍 高级节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇸🇬 新加坡节点`[]🇯🇵 日韩节点`[]🇺🇲 美国节点`[]DIRECT
 custom_proxy_group=🚀 手动切换`select`.*
 custom_proxy_group=♻️ 自动选择`url-test`.*`http://www.gstatic.com/generate_204`300,,50
 custom_proxy_group=📲 电报消息`select`[]🚀 节点选择`[]♻️ 自动选择`[]📺 省流节点`[]🇸🇬 新加坡节点`[]🇭🇰 香港节点`[]🇨🇳 台湾节点`[]🇯🇵 日韩节点`[]🇺🇲 美国节点`[]🚀 手动切换`[]DIRECT
